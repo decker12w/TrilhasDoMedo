@@ -13,7 +13,7 @@ public class Dialogue : MonoBehaviour
     public float typingSpeed;
     private bool isTyping = false;
 
-    private int index = 10;
+    private int index = 50;
     private Coroutine typingCoroutine = null;
 
     public Arvore arvore;
@@ -30,7 +30,7 @@ public class Dialogue : MonoBehaviour
     void Start()
     {
         arvore = GameObject.FindObjectOfType<Arvore>();
-        Debug.Log(arvore.GetDialogo(10));
+       
         textDisplay.text = string.Empty;
         StartDialogue();
     }
