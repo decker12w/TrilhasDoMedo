@@ -35,12 +35,6 @@ public class Dialogue : MonoBehaviour
         StartDialogue();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void StartDialogue()
     {
         sentences = new string[] { arvore.GetDialogo(index) };

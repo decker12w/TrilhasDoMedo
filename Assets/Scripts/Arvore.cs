@@ -47,7 +47,7 @@ Jogador, após uma breve caminhada, se depara com uma visão familiar: o mesmo t
 Insert(110,@"
 Jogador decide ignorar o túnel e tentar um novo caminho através da floresta. Ele se vira e começa a caminhar na direção oposta, na esperança de que talvez, desta vez, ele possa encontrar uma saída. A voz enigmática parece sussurrar em seus ouvidos, ""O labirinto é cheio de surpresas, viajante. O caminho menos percorrido pode ser a chave."" O jogador, ignorando o aviso da voz misteriosa, decide ir contra o indicado e se embrenha ainda mais na floresta escura. A névoa ao redor se torna ainda mais densa, os sons noturnos ficam cada vez mais assustadores. As árvores parecem fechar-se atrás dele, tornando o caminho de volta quase indistinguível.
 
-A medida que adentra a floresta, ele começa a ouvir sussurros maliciosos, cada vez mais alto. As histórias contadas pelos **trilhos** não são mais de viajantes passados, mas de almas perdidas que nunca encontraram o caminho de volta. Ele percebe, com um frio na espinha, que pode ter feito a escolha errada.
+A medida que adentra a floresta, ele começa a ouvir sussurros maliciosos, cada vez mais alto. As histórias contadas pelos trilhos** não são mais de viajantes passados, mas de almas perdidas que nunca encontraram o caminho de volta. Ele percebe, com um frio na espinha, que pode ter feito a escolha errada.
 
 A voz misteriosa ecoa mais uma vez, agora com um tom de risada cruel: ""Você escolheu o caminho menos percorrido, viajante, e agora está perdido para sempre no labirinto. Este é o destino daqueles que não seguem as regras do jogo.""
 
@@ -97,23 +97,23 @@ Num instante, ele é transportado para um cenário cósmico além da compreensã
 
 Uma presença sinistra se manifesta, uma entidade antiga e imponente, cuja forma transcende as noções humanas de realidade. Esta criatura, um ser de terror cósmico que observa o universo desde tempos imemoriais, fala em uma linguagem além das palavras, ecoando diretamente na mente do viajante.
 
-**Kevin Nakashima:** Sou Kevin Nakashima, guardião dos véus cósmicos, testemunha das espirais do tempo. Sua jornada, oh viajante, moldou os fios do destino, afetando as constelações do tempo e espaço.
+Kevin Nakashima: Sou Kevin Nakashima, guardião dos véus cósmicos, testemunha das espirais do tempo. Sua jornada, oh viajante, moldou os fios do destino, afetando as constelações do tempo e espaço.
 
-**Viajante:** Entendo... Minhas escolhas tiveram um impacto no cosmos?
+Viajante: Entendo... Minhas escolhas tiveram um impacto no cosmos?
 
-**Kevin Nakashima:** Sim, suas escolhas transcendem fronteiras temporais e espaciais. O propósito era testar sua coragem e sabedoria, elementos cruciais no destino do universo.
+Kevin Nakashima: Sim, suas escolhas transcendem fronteiras temporais e espaciais. O propósito era testar sua coragem e sabedoria, elementos cruciais no destino do universo.
 
-**Viajante:** Então, minha jornada não foi apenas pessoal...
+Viajante: Então, minha jornada não foi apenas pessoal...
 
-**Kevin Nakashima:** Exato. O equilíbrio do cosmos é influenciado por aqueles que enfrentam os enigmas do tempo e do espaço.
+Kevin Nakashima: Exato. O equilíbrio do cosmos é influenciado por aqueles que enfrentam os enigmas do tempo e do espaço.
 
-**Viajante:** E agora, para onde devo seguir?
+Viajante: E agora, para onde devo seguir?
 
-**Kevin Nakashima:** Sua jornada continua, viajante. Retorne ao seu caminho, pois o destino do universo é desvendado por aqueles que têm a coragem de explorar os mistérios além das estrelas.
+Kevin Nakashima: Sua jornada continua, viajante. Retorne ao seu caminho, pois o destino do universo é desvendado por aqueles que têm a coragem de explorar os mistérios além das estrelas.
 
 *O viajante retorna à clareira sombria da floresta, diante dos trilhos de trem, com um novo entendimento preenchendo sua mente, enquanto a voz misteriosa de Kevin Nakashima se despede.*
 
-**Kevin Nakashima:** Você alcançou o conhecimento dos antigos. Continue sua jornada, pois o destino do universo sempre se desenrola através das escolhas daqueles que ousam desvendar os mistérios além das estrelas.
+Kevin Nakashima: Você alcançou o conhecimento dos antigos. Continue sua jornada, pois o destino do universo sempre se desenrola através das escolhas daqueles que ousam desvendar os mistérios além das estrelas.
 
 O viajante, como reconhecimento por sua jornada, é recompensado com uma cópia do jogo ""Tá Chovendo Hambúrguer 2"", como um lembrete simbólico de suas conquistas e desafios superados.","","");
             Insert(30,@"
@@ -129,23 +129,23 @@ Num instante, ele é transportado para um cenário cósmico além da compreensã
 
 Uma presença sinistra se manifesta, uma entidade antiga e imponente, cuja forma transcende as noções humanas de realidade. Esta criatura, um ser de terror cósmico que observa o universo desde tempos imemoriais, fala em uma linguagem além das palavras, ecoando diretamente na mente do viajante.
 
-**Coxa:** Sou Coxa, guardião dos véus cósmicos, testemunha das espirais do tempo. Sua jornada, oh viajante, moldou os fios do destino, afetando as constelações do tempo e espaço.
+Coxa: Sou Coxa, guardião dos véus cósmicos, testemunha das espirais do tempo. Sua jornada, oh viajante, moldou os fios do destino, afetando as constelações do tempo e espaço.
 
-**Viajante:** Entendo... Minhas escolhas tiveram um impacto no cosmos?
+Viajante: Entendo... Minhas escolhas tiveram um impacto no cosmos?
 
-**Coxa:** Sim, suas escolhas transcendem fronteiras temporais e espaciais. O propósito era testar sua coragem e sabedoria, elementos cruciais no destino do universo.
+Coxa: Sim, suas escolhas transcendem fronteiras temporais e espaciais. O propósito era testar sua coragem e sabedoria, elementos cruciais no destino do universo.
 
-**Viajante:** Então, minha jornada não foi apenas pessoal...
+Viajante: Então, minha jornada não foi apenas pessoal...
 
-**Coxa:** Exato. O equilíbrio do cosmos é influenciado por aqueles que enfrentam os enigmas do tempo e do espaço.
+Coxa: Exato. O equilíbrio do cosmos é influenciado por aqueles que enfrentam os enigmas do tempo e do espaço.
 
-**Viajante:** E agora, para onde devo seguir?
+Viajante: E agora, para onde devo seguir?
 
-**Coxa:** Sua jornada continua, viajante. Retorne ao seu caminho, pois o destino do universo é desvendado por aqueles que têm a coragem de explorar os mistérios além das estrelas.
+Coxa: Sua jornada continua, viajante. Retorne ao seu caminho, pois o destino do universo é desvendado por aqueles que têm a coragem de explorar os mistérios além das estrelas.
 
-*O viajante retorna à clareira sombria da floresta, diante dos trilhos de trem, com um novo entendimento preenchendo sua mente, enquanto a voz misteriosa de* Coxa *se despede.*
+O viajante retorna à clareira sombria da floresta, diante dos trilhos de trem, com um novo entendimento preenchendo sua mente, enquanto a voz misteriosa de* Coxa *se despede.*
 
-**Coxa:** Você alcançou o conhecimento dos antigos. Continue sua jornada, pois o destino do universo sempre se desenrola através das escolhas daqueles que ousam desvendar os mistérios além das estrelas.
+Coxa: Você alcançou o conhecimento dos antigos. Continue sua jornada, pois o destino do universo sempre se desenrola através das escolhas daqueles que ousam desvendar os mistérios além das estrelas.
 
 O viajante, como reconhecimento por sua jornada, é recompensado com uma cópia do jogo ""Tá Chovendo Hambúrguer 2"", como um lembrete simbólico de suas conquistas e desafios superados.","","");
         Insert(36,@"
